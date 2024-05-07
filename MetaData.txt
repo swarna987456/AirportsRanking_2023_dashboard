@@ -1,0 +1,8 @@
+Dataset: https://data.world/makeovermonday/2024w16-airhelp-global-airport-rankings
+https://www.airhelp.com/en-gb/blog/airhelp-score-2023-how-did-we-rank-the-airports/
+
+Keypoints:
+2023 AirHelp scores for 194 of the worlds busiest airports.
+
+
+attributes: IATA:(The International Air Transport Association): IATA Codes are an integral part of the travel industry and essential for the identification of an airline, its destinations and its traffic documents.
